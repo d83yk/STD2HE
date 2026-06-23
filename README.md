@@ -136,8 +136,8 @@ If you find this work or code useful for your research, please cite our paper:
 ```bibtex
 @article{ueda2026std2he,
   title={Deep Generative Translation of Standard Images into Virtual High-Energy Images for Facilitating Dual-Energy Chest Radiography},
-  author={Ueda, Y. and others},
-  journal={arXiv preprint/Journal Name},
+  author={Ueda, Y., Shimazaki, R., Seki, M., and Ishida, T.},
+  journal={Journal of Imaging Informatics in Medicine},
   year={2026}
 }
 ```
