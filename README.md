@@ -2,7 +2,7 @@
 
 Official implementation of the paper **"Deep Generative Translation of Standard Images into Virtual High-Energy Images for Facilitating Dual-Energy Chest Radiography"**.
 
-This repository contains the source code, training/evaluation scripts, and model weights for the **STD2HE2LE** pipeline. The pipeline is designed to reconstruct physical high-energy (HE) and low-energy (LE) domains from processed standard (STD) chest radiography images using a cascaded Pix2Pix cGAN model, allowing the synthesis of high-quality virtual bone-suppressed (BS) and bone-extracted (BE) images via dual-energy subtraction.
+This repository contains the source code, training/evaluation scripts, and model weights for the **STD2HE2LE** pipeline (coming soon). The pipeline is designed to reconstruct physical high-energy (HE) and low-energy (LE) domains from processed standard (STD) chest radiography images using a cascaded Pix2Pix cGAN model, allowing the synthesis of high-quality virtual bone-suppressed (BS) and bone-extracted (BE) images via dual-energy subtraction.
 
 ---
 
