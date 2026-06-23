@@ -65,7 +65,7 @@ This repository contains the source code, training/evaluation scripts, and model
 ---
 
 ## Model Weights
-
+(It will be released soon.)
 Because the generator weights exceed standard GitHub file size limits (~217 MB each), we host them using **GitHub Releases**. 
 
 ### Weight Folder Structure
